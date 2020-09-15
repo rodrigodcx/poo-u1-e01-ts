@@ -1,14 +1,11 @@
-# Autograding Example: Node
-This example project is written in Node, and tested with Jest.
+# Unidade 1 - Exercício 01 - TypeScript
+Esse exercício foi escrito em TypeScript e testado com Jest.
 
-### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
+Atualmente o teste está falhando pois a saída do método está diferente do esperado.
+Conserte o método `imprime_dados_loja` em `cupom.ts` para que os testes passem.
 
-### Setup command
+### Comando para execução
 `npm install`
 
-### Run command
+### Comando para execução
 `npm test`
-
-### Notes
-- 
